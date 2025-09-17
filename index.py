@@ -15,6 +15,7 @@ from torchaudio.transforms import MelSpectrogram, AmplitudeToDB, TimeMasking, Fr
 
 
 def main():
+    x = 1
     pass
 
 if __name__ == '__main__':
