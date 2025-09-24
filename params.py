@@ -6,3 +6,4 @@ num_mel_bands = 40
 
 # means 1 / overlap ratio of overlap for each time frame. 
 overlap = 2
+hop_length = windowed_signal_length // overlap
